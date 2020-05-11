@@ -1,1 +1,9 @@
 # Walmart_Sales_Forecasting
+
+Demand plays an important role in the functioning of every business. It helps an organization reduce risks involved in business activities and make important business decisions. Demand forecasting provides insight into the capital investment and expansion decisions of an organization. It is a structured process that involves anticipating the demand (stochastic or imperfectly predictable) for the product and services of an organization in future under a set of uncontrollable and competitive factors.    
+
+Walmart is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. The need to make decisions based on limited history is one of the biggest challenges of modeling retail data. If Christmas comes but once a year, so does the chance to see how strategic decisions impacted the bottom line. We are given sales data for over 5 years from 2011-0129 to 2016-06-19. The objective is to predict the point sales for the next 28 days.  
+ 
+Time series forecasting is widely used in many areas such as economics, inventory systems, statistics, etc. There are many forecasting models ranging from basic models such as simple moving average and linear regression to more advanced models such as autoregressive integrated moving average (ARIMA) and Recurrent Neural Networks. These models analyze historical data in order to provide estimates of the future. The objective of this project is to predict sales data for the next 28 days into the future. We then assess the model accuracy by means of an error measure or scoring function. 
+
+The objective of this project is to predict sales data for the next 28 days into the future. We then assess the model accuracy by means of an error measure or scoring function. 
